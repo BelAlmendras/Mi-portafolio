@@ -20,3 +20,10 @@ padding-bottom: 0;
 .contacto .fa-github{
     margin-right: 0%;
 }
+.contacto .btn{
+    color: $primary;
+}
+.contacto .btn:hover{
+    color: $secondary;
+    background-color: $light;
+}

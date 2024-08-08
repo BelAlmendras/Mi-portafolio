@@ -11983,7 +11983,7 @@ textarea.form-control-lg {
 }
 
 .inicio {
-  padding: 5%;
+  padding-top: 7%;
 }
 
 .inicio h1, .inicio .h1 {
@@ -12008,7 +12008,7 @@ textarea.form-control-lg {
 }
 
 .mis-habilidades {
-  text-align: center;
+  padding-top: 5%;
 }
 
 .mis-habilidades h2, .mis-habilidades .h2 {
@@ -12111,6 +12111,15 @@ textarea.form-control-lg {
   margin-right: 0%;
 }
 
+.contacto .btn {
+  color: #2F3645;
+}
+
+.contacto .btn:hover {
+  color: #E6B9A6;
+  background-color: #EEEDEB;
+}
+
 .inicio .btn {
   color: #2F3645;
 }
@@ -12118,6 +12127,11 @@ textarea.form-control-lg {
 .inicio .btn:hover {
   color: #E6B9A6;
   background-color: #EEEDEB;
+}
+
+.inicio a {
+  text-decoration: none;
+  color: inherit;
 }
 
 .navbar-brand {

@@ -12070,6 +12070,47 @@ textarea.form-control-lg {
   font-size: 3em;
 }
 
+.mis-proyectos {
+  padding-top: 7%;
+}
+
+.mis-proyectos h2, .mis-proyectos .h2 {
+  font-size: 2.3em;
+  padding-bottom: 5%;
+}
+
+.mis-proyectos h3, .mis-proyectos .h3 {
+  font-size: 1.2em;
+}
+
+.contacto {
+  padding: 5%;
+}
+
+.contacto h2, .contacto .h2 {
+  font-size: 2.3em;
+  padding-top: 5%;
+  padding-bottom: 0;
+}
+
+.contacto form {
+  padding-right: 5%;
+}
+
+.contacto p {
+  font-size: 1em;
+  text-align: left;
+}
+
+.contacto i {
+  font-size: 1.3em;
+  padding-right: 5%;
+}
+
+.contacto .fa-github {
+  margin-right: 0%;
+}
+
 .inicio .btn {
   color: #2F3645;
 }

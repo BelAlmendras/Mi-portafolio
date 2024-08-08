@@ -1,0 +1,16 @@
+.navbar-brand{
+    font-size: 2em;
+    color: $dark;
+    font-style: italic;
+    margin-left: 3%;
+    font-weight: 500;
+}
+.navbar-brand .secondary{
+    color: $secondary;
+}
+.navbar-brand:hover{
+    color: $secondary;
+}
+.secondary:hover{
+    color: $dark;
+}

@@ -1,0 +1,11 @@
+//bootstrap compilado
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+//layouts
+@import "./layouts/navbar";
+@import  "./layouts/inicio";
+@import "./layouts/mis-habilidades";
+
+//componentes
+@import "./components/inicio__boton";
+@import "./components/nav-brand";
